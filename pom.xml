@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.fiap.ec</groupId>
-	<artifactId>backend_consultas</artifactId>
+	<artifactId>backend-consultas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>backend_consultas</name>
-	<description>Criando um Projeto Spring Boot no Spring Initializr</description>
+	<name>backend-consultas</name>
+	<description>Api Marcação de Consultas</description>
 	<url/>
 	<licenses>
 		<license/>
